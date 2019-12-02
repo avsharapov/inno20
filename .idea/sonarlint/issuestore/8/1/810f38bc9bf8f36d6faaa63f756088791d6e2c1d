@@ -1,0 +1,5 @@
+
+Psquid:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8¢×„»ë-
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³8¢×„»ë-
+jsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¢×„»ë-
+=squid:S2068" Remove this hard-coded password.(â°*8¢×„»ë-

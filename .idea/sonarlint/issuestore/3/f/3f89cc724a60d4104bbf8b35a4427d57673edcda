@@ -1,0 +1,18 @@
+
+usquid:S1488("^Immediately return this expression instead of assigning it to the temporary variable "mobile".(À…Äš
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(´¿Ï“8´ñîÁë-
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ
+^squid:S2095&"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(´¿Ï“8˜îÁë-
+?squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(´¿Ï“8â­ïÁë-
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Ï‡ûÿÿÿÿ
+?squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ
+ksquid:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ

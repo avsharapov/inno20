@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚˜÷8¬Óîºë-
+^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÅÖÚ°ë-
+=squid:S2068" Remove this hard-coded password.(â°*8¬Óîºë-
+Psquid:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8ÅÖÚ°ë-
+esquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ò¡¥¹8¬Óîºë-
+_squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ŒÇå³
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şï½“ûÿÿÿÿ8¬Óîºë-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô£Çàıÿÿÿÿ8¬Óîºë-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îô€Ï8¬Óîºë-

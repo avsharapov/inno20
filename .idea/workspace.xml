@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ddfb543-2727-4f1b-aea1-548def428bb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mobile@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mobile: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UHOwO5MR5SnBUB29ChjnT1g3Fw" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stc.inno" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Teach\Inno\3. JDBC и работа с БД\sources\src\stc\inno\realExample" />
+      <recent name="D:\Teach\Inno\3. JDBC и работа с БД\sources\src\stc\inno" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="CreationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.CreationMain" />
+      <module name="sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.Main" />
+      <module name="sources" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.Main2" />
+      <module name="sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.Main3" />
+      <module name="sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stc.inno.Main4" />
+      <module name="sources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stc.inno.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main4" />
+      <item itemvalue="Application.CreationMain" />
+      <item itemvalue="Application.Main3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.CreationMain" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mobile@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mobile@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@38d3961e" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ddfb543-2727-4f1b-aea1-548def428bb2" name="Default Changelist" comment="" />
+      <created>1575010291581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575010291581</updated>
+      <workItem from="1575010295213" duration="7855000" />
+      <workItem from="1575038733011" duration="236000" />
+      <workItem from="1575041987468" duration="5780000" />
+      <workItem from="1575216462108" duration="611000" />
+      <workItem from="1575267177516" duration="12810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2649" y="325" key="#Project_Structure" timestamp="1575288867503">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1768" y="15" key="#Project_Structure.inPresentationMode" timestamp="1575046155653">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1768" y="15" key="#Project_Structure.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575046155653" />
+    <state x="2649" y="325" key="#Project_Structure/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575288867503" />
+    <state x="2472" y="213" key="#SQL_Dialects" timestamp="1575012806825">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="213" key="#SQL_Dialects/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575012806825" />
+    <state x="2472" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575293349716">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1504" y="131" width="1199" height="922" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1575045892935">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1504" y="131" width="1199" height="922" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575045892935" />
+    <state x="2472" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575293349716" />
+    <state x="2649" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575298202110">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2649" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575298202110" />
+    <state x="-1155" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1575300389300">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1155" y="264" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575300389300" />
+    <state x="2676" y="439" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575034229541">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2676" y="439" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575034229541" />
+    <state width="488" height="380" key="DatabaseViewActions_Filter.inPresentationMode" timestamp="1575046649194">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="488" height="380" key="DatabaseViewActions_Filter.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575046649194" />
+    <state x="533" y="241" key="FileChooserDialogImpl" timestamp="1575042227350">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="-1536" y="15" key="FileChooserDialogImpl.inPresentationMode" timestamp="1575046153683">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1536" y="15" key="FileChooserDialogImpl.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575046153683" />
+    <state x="533" y="241" key="FileChooserDialogImpl/0.30.1536.834/-1920.30.1920.1050@0.30.1536.834" timestamp="1575042227350" />
+    <state x="2586" y="296" key="FileChooserDialogImpl/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575010802348" />
+    <state width="1877" height="454" key="GridCell.Tab.0.bottom" timestamp="1575300820889">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1575049087342">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.bottom.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049087342" />
+    <state width="1877" height="454" key="GridCell.Tab.0.bottom/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575300820889" />
+    <state width="1920" height="464" key="GridCell.Tab.0.bottom/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="454" key="GridCell.Tab.0.bottom/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575298303579" />
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1575216879359" />
+    <state width="1877" height="454" key="GridCell.Tab.0.center" timestamp="1575300820889">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1575049087342">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.center.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049087342" />
+    <state width="1877" height="454" key="GridCell.Tab.0.center/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575300820889" />
+    <state width="1920" height="464" key="GridCell.Tab.0.center/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="454" key="GridCell.Tab.0.center/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575298303579" />
+    <state width="1493" height="348" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1575216879359" />
+    <state width="1877" height="454" key="GridCell.Tab.0.left" timestamp="1575300820888">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1575049087342">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.left.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049087342" />
+    <state width="1877" height="454" key="GridCell.Tab.0.left/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575300820888" />
+    <state width="1920" height="464" key="GridCell.Tab.0.left/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="454" key="GridCell.Tab.0.left/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575298303579" />
+    <state width="1493" height="348" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1575216879358" />
+    <state width="1877" height="454" key="GridCell.Tab.0.right" timestamp="1575300820889">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1575049087342">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="466" key="GridCell.Tab.0.right.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049087342" />
+    <state width="1877" height="454" key="GridCell.Tab.0.right/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575300820889" />
+    <state width="1920" height="464" key="GridCell.Tab.0.right/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="454" key="GridCell.Tab.0.right/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575298303579" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1575216879359" />
+    <state width="1877" height="442" key="GridCell.Tab.1.bottom" timestamp="1575289847537">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1575049029352">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.bottom.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049029352" />
+    <state width="1920" height="464" key="GridCell.Tab.1.bottom/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="442" key="GridCell.Tab.1.bottom/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575289847537" />
+    <state width="1877" height="442" key="GridCell.Tab.1.center" timestamp="1575289847537">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1575049029352">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.center.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049029352" />
+    <state width="1920" height="464" key="GridCell.Tab.1.center/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="442" key="GridCell.Tab.1.center/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575289847537" />
+    <state width="1877" height="442" key="GridCell.Tab.1.left" timestamp="1575289847537">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1575049029351">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.left.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049029351" />
+    <state width="1920" height="464" key="GridCell.Tab.1.left/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="442" key="GridCell.Tab.1.left/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575289847537" />
+    <state width="1877" height="442" key="GridCell.Tab.1.right" timestamp="1575289847537">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1575049029352">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1920" height="464" key="GridCell.Tab.1.right.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575049029352" />
+    <state width="1920" height="464" key="GridCell.Tab.1.right/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575098126249" />
+    <state width="1877" height="442" key="GridCell.Tab.1.right/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575289847537" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1575293355501">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="421" height="912" key="HiddenNamespacesPopup.inPresentationMode" timestamp="1575045971000">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="421" height="912" key="HiddenNamespacesPopup.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575045971000" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575293355501" />
+    <state x="2601" y="296" width="540" height="524" key="StructurePopup" timestamp="1575038896019">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2601" y="296" width="540" height="524" key="StructurePopup/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575038896019" />
+    <state x="2778" y="444" width="326" height="237" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1575294198447">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2778" y="444" width="326" height="237" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575294198447" />
+    <state x="2676" y="379" width="408" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1575292716195">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2676" y="379" width="408" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575292716195" />
+    <state x="-1521" y="15" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.inPresentationMode" timestamp="1575046028076">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1521" y="15" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575046028076" />
+    <state x="2738" y="301" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1575293144504">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1201" y="60" key="com.intellij.database.view.ui.DbObjectDialog.inPresentationMode" timestamp="1575045965474">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1201" y="60" key="com.intellij.database.view.ui.DbObjectDialog.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575045965474" />
+    <state x="2738" y="301" key="com.intellij.database.view.ui.DbObjectDialog/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575293144504" />
+    <state x="525" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1575284891056">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="525" y="306" key="com.intellij.ide.util.TipDialog/0.30.1536.834/-1920.30.1920.1050@0.30.1536.834" timestamp="1575041990988" />
+    <state x="525" y="306" key="com.intellij.ide.util.TipDialog/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1575284891056" />
+    <state x="2576" y="378" key="com.intellij.ide.util.TipDialog/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575038732099" />
+    <state x="2610" y="320" key="extract.method.dialog" timestamp="1575011337198">
+      <screen x="1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="2610" y="320" key="extract.method.dialog/0.30.1536.834/1920.30.1920.1050@1920.30.1920.1050" timestamp="1575011337198" />
+    <state x="-1264" y="160" width="607" height="789" key="find.popup" timestamp="1575300758555">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1264" y="160" width="607" height="789" key="find.popup/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575300758555" />
+    <state x="-1634" y="30" width="1344" height="1046" key="search.everywhere.popup.inPresentationMode" timestamp="1575048160494">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1634" y="30" width="1344" height="1046" key="search.everywhere.popup.inPresentationMode/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1575048160494" />
+  </component>
+</project>

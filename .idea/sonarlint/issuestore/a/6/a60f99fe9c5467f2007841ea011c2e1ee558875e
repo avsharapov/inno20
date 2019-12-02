@@ -1,0 +1,7 @@
+
+=squid:S2068" Remove this hard-coded password.(β°*8Ό„€Αλ-
+]squid:S1226
+"AIntroduce a new variable instead of reusing the parameter "args".(ηΆΔ–ύÿÿÿÿ
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(τ£Ηΰύÿÿÿÿ
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ηε³8Ό„€Αλ-
+Psquid:S4925"-Remove this "Class.forName()", it is useless.(υ†¨Δωÿÿÿÿ8Ό„€Αλ-
